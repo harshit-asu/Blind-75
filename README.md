@@ -10,3 +10,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 4](p4.py): 49. Group Anagrams
 
 [Problem 5](p5.py): 347. Top K Frequent Elements
+
+[Problem 6](p6.py): 238. Product of Array Except Self
