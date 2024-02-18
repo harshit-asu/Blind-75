@@ -12,3 +12,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 5](p5.py): 347. Top K Frequent Elements
 
 [Problem 6](p6.py): 238. Product of Array Except Self
+
+[Problem 8](p8.py): 128. Longest Consecutive Sequence
