@@ -19,4 +19,6 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 10](p10.py): 15. 3Sum
 
-[Problem 11](p11.py) 11. Container With Most Water
+[Problem 11](p11.py): 11. Container With Most Water
+
+[Problem 12](p12.py): 121. Best Time to Buy and Sell Stock
