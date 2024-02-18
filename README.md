@@ -1,4 +1,6 @@
 # Blind-75
 Blind 75 problem challenge from NeetCode
 
-[217](p1.py). Contains Duplicate
+[Problem 1](p1.py): 217. Contains Duplicate
+
+[Problem 2](p2.py): 242. Valid Anagram
