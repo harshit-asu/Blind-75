@@ -16,3 +16,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 8](p8.py): 128. Longest Consecutive Sequence
 
 [Problem 9](p9.py): 125. Valid Palindrome
+
+[Problem 10](p10.py): 15. 3Sum
