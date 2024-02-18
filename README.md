@@ -6,3 +6,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 2](p2.py): 242. Valid Anagram
 
 [Problem 3](p3.py): 1. Two Sum
+
+[Problem 4](p4.py): 49. Group Anagrams
