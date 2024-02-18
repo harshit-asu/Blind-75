@@ -8,3 +8,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 3](p3.py): 1. Two Sum
 
 [Problem 4](p4.py): 49. Group Anagrams
+
+[Problem 5](p5.py): 347. Top K Frequent Elements
