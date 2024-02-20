@@ -29,8 +29,10 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 16](p16.py): 20. Valid Parentheses
 
-[Problem 71](p71.py) 191. Number of 1 Bits
+[Problem 71](p71.py): 191. Number of 1 Bits
 
-[Problem 72](p72.py) 338. Counting Bits
+[Problem 72](p72.py): 338. Counting Bits
 
-[Problem 73](p73.py) 190. Reverse Bits
+[Problem 73](p73.py): 190. Reverse Bits
+
+[Problem 74](p74.py): 268. Missing Number
