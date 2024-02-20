@@ -28,3 +28,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 15](p15.py): 76. Minimum Window Substring
 
 [Problem 16](p16.py): 20. Valid Parentheses
+
+[Problem 71](p71.py) 191. Number of 1 Bits
