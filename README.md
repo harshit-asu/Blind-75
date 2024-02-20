@@ -32,3 +32,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 71](p71.py) 191. Number of 1 Bits
 
 [Problem 72](p72.py) 338. Counting Bits
+
+[Problem 73](p73.py) 190. Reverse Bits
