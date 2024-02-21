@@ -29,6 +29,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 16](p16.py): 20. Valid Parentheses
 
+[Problem 17](p17.py): 153. Find Minimum in Rotated Sorted Array
+
 [Problem 24](p24.py): 23. Merge k Sorted Lists
 
 [Problem 71](p71.py): 191. Number of 1 Bits
