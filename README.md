@@ -33,6 +33,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 20](p20.py): 21. Merge Two Sorted Lists
 
+[Problem 21](p21.py): 143. Reorder List
+
 [Problem 23](p23.py): 141. Linked List Cycle
 
 [Problem 24](p24.py): 23. Merge k Sorted Lists
