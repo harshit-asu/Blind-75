@@ -53,6 +53,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 30](p30.py): 102. Binary Tree Level Order Traversal
 
+[Problem 31](p31.py): 98. Validate Binary Search Tree
+
 [Problem 61](p61.py): 53. Maximum Subarray
 
 [Problem 62](p62.py): 55: Jump Game
