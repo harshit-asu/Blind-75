@@ -43,6 +43,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 24](p24.py): 23. Merge k Sorted Lists
 
+[Problem 25](p25.py): 226. Invert Binary Tree
+
 [Problem 61](p61.py): 53. Maximum Subarray
 
 [Problem 62](p62.py): 55: Jump Game
