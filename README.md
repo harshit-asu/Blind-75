@@ -55,6 +55,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 31](p31.py): 98. Validate Binary Search Tree
 
+[Problem 32](p32.py): 230. Kth Smallest Element in a BST
+
 [Problem 61](p61.py): 53. Maximum Subarray
 
 [Problem 62](p62.py): 55: Jump Game
