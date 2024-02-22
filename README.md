@@ -43,6 +43,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 24](p24.py): 23. Merge k Sorted Lists
 
+[Problem 68](p68.py): 48. Rotate Image
+
 [Problem 71](p71.py): 191. Number of 1 Bits
 
 [Problem 72](p72.py): 338. Counting Bits
