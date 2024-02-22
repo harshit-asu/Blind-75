@@ -47,6 +47,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 26](p26.py): 104. Maximum Depth of Binary Tree
 
+[Problem 27](p27.py): 100. Same Tree
+
 [Problem 61](p61.py): 53. Maximum Subarray
 
 [Problem 62](p62.py): 55: Jump Game
