@@ -57,6 +57,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 32](p32.py): 230. Kth Smallest Element in a BST
 
+[Problem 49](p49.py): 70. Climbing Stairs
+
 [Problem 61](p61.py): 53. Maximum Subarray
 
 [Problem 62](p62.py): 55: Jump Game
