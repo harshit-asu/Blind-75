@@ -59,6 +59,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 32](p32.py): 230. Kth Smallest Element in a BST
 
+[Problem 33](p33.py): 105. Construct Binary Tree from Preorder and Inorder Traversal
+
 [Problem 49](p49.py): 70. Climbing Stairs
 
 [Problem 61](p61.py): 53. Maximum Subarray
