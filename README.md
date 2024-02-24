@@ -51,6 +51,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 28](p28.py): 572. Subtree of Another Tree
 
+[Problem 29](p29.py): 235. Lowest Common Ancestor of a Binary Search Tree
+
 [Problem 30](p30.py): 102. Binary Tree Level Order Traversal
 
 [Problem 31](p31.py): 98. Validate Binary Search Tree
