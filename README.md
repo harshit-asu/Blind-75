@@ -63,6 +63,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 36](p36.py): 208. Implement Trie (Prefix Tree)
 
+[Problem 37](p37.py): 211. Design Add and Search Words Data Structure
+
 [Problem 49](p49.py): 70. Climbing Stairs
 
 [Problem 61](p61.py): 53. Maximum Subarray
