@@ -67,6 +67,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 38](p38.py): 212. Word Search II
 
+[Problem 39](p39.py): 295. Find Median from Data Stream
+
 [Problem 40](p40.py): 39. Combination Sum
 
 [Problem 41](p41.py): 79. Word Search
