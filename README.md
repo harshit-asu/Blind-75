@@ -73,6 +73,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 41](p41.py): 79. Word Search
 
+[Problem 42](p42.py): 200. Number of Islands
+
 [Problem 49](p49.py): 70. Climbing Stairs
 
 [Problem 61](p61.py): 53. Maximum Subarray

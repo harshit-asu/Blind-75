@@ -1,8 +1,8 @@
 """
 
-Problem: 79. Word Search
+Problem: 200. Number of Islands
 
-URL: https://leetcode.com/problems/word-search/description/
+URL: https://leetcode.com/problems/number-of-islands/description/
 
 Author: Harshit Allumolu <hallumol@asu.edu>
 
