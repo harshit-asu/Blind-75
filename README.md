@@ -77,6 +77,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 49](p49.py): 70. Climbing Stairs
 
+[Problem 50](p50.py): 198. House Robber
+
 [Problem 59](p59.py): 62. Unique Paths
 
 [Problem 61](p61.py): 53. Maximum Subarray
