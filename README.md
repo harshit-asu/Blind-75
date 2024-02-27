@@ -61,6 +61,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 33](p33.py): 105. Construct Binary Tree from Preorder and Inorder Traversal
 
+[Problem 34](p34.py): 124. Binary Tree Maximum Path Sum
+
 [Problem 36](p36.py): 208. Implement Trie (Prefix Tree)
 
 [Problem 37](p37.py): 211. Design Add and Search Words Data Structure
