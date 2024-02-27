@@ -31,6 +31,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 17](p17.py): 153. Find Minimum in Rotated Sorted Array
 
+[Problem 18](p18.py): 33. Search in Rotated Sorted Array
+
 [Problem 19](p19.py): 206. Reverse Linked List
 
 [Problem 20](p20.py): 21. Merge Two Sorted Lists
