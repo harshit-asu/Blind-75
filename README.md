@@ -137,6 +137,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 63](https://github.com/harshit-asu/Blind-75/blob/main/Intervals/p63.py): 57. Insert Interval
 
+[Problem 64](https://github.com/harshit-asu/Blind-75/blob/main/Intervals/p64.py): 56. Merge Intervals
+
 
 ## Math & Geometry
 
