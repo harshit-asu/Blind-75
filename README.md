@@ -139,6 +139,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 64](https://github.com/harshit-asu/Blind-75/blob/main/Intervals/p64.py): 56. Merge Intervals
 
+[Problem 65](https://github.com/harshit-asu/Blind-75/blob/main/Intervals/p65.py): 435. Non-overlapping Intervals
+
 
 ## Math & Geometry
 
