@@ -133,6 +133,11 @@ Blind 75 problem challenge from NeetCode
 [Problem 62](https://github.com/harshit-asu/Blind-75/blob/main/Greedy/p62.py): 55: Jump Game
 
 
+## Intervals
+
+[Problem 63](https://github.com/harshit-asu/Blind-75/blob/main/Intervals/p63.py): 57. Insert Interval
+
+
 ## Math & Geometry
 
 [Problem 68](https://github.com/harshit-asu/Blind-75/blob/main/Math%20%26%20Geometry/p68.py): 48. Rotate Image
