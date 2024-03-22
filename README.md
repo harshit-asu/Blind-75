@@ -1,9 +1,9 @@
 # Blind-75
 Blind 75 problem challenge from NeetCode
 
-[Problem 1](p01.py): 217. Contains Duplicate
+[Problem 1]("Arrays & Hashing\p01.py"): 217. Contains Duplicate
 
-[Problem 2](p02.py): 242. Valid Anagram
+[Problem 2](Arrays & Hashing\p02.py): 242. Valid Anagram
 
 [Problem 3](p03.py): 1. Two Sum
 
