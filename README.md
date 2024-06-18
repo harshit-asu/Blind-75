@@ -88,7 +88,7 @@ Blind 75 problem challenge from NeetCode
 
 ## Heap & Priority Queue
 
-[Problem 36](https://github.com/harshit-asu/Blind-75/blob/main/Heap%20Priority%20Queue/p36.py): 208. Implement Trie (Prefix Tree)
+[Problem 36](https://github.com/harshit-asu/Blind-75/blob/main/Heap%20Priority%20Queue/p36.py): 295. Find Median from Data Stream
 
 
 ## Backtracking
@@ -100,7 +100,7 @@ Blind 75 problem challenge from NeetCode
 
 ## Tries
 
-[Problem 39](https://github.com/harshit-asu/Blind-75/blob/main/Tries/p39.py): 295. Find Median from Data Stream
+[Problem 39](https://github.com/harshit-asu/Blind-75/blob/main/Tries/p39.py): 208. Implement Trie (Prefix Tree)
 
 [Problem 40](https://github.com/harshit-asu/Blind-75/blob/main/Tries/p40.py): 39. Combination Sum
 
