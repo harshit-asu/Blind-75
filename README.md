@@ -162,3 +162,5 @@ Blind 75 problem challenge from NeetCode
 [Problem 73](https://github.com/harshit-asu/Blind-75/blob/main/Bit%20Manipulation/p73.py): 190. Reverse Bits
 
 [Problem 74](https://github.com/harshit-asu/Blind-75/blob/main/Bit%20Manipulation/p74.py): 268. Missing Number
+
+[Problem 75](https://github.com/harshit-asu/Blind-75/blob/main/Bit%20Manipulation/p75.cpp): 371. Sum of Two Integers
