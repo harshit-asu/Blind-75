@@ -15,6 +15,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 6](https://github.com/harshit-asu/Blind-75/blob/main/Arrays%20%26%20Hashing/p06.py): 238. Product of Array Except Self
 
+[Problem 7](https://github.com/harshit-asu/Blind-75/blob/main/Arrays%20%26%20Hashing/p07.py): 271. Encode and Decode Strings
+
 [Problem 8](https://github.com/harshit-asu/Blind-75/blob/main/Arrays%20%26%20Hashing/p08.py): 128. Longest Consecutive Sequence
 
 
