@@ -35,6 +35,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 13](https://github.com/harshit-asu/Blind-75/blob/main/Sliding%20Window/p13.py): 3. Longest Substring Without Repeating Characters
 
+[Problem 14](https://github.com/harshit-asu/Blind-75/blob/main/Sliding%20Window/p14.py): 424. Longest Repeating Character Replacement
+
 [Problem 15](https://github.com/harshit-asu/Blind-75/blob/main/Sliding%20Window/p15.py): 76. Minimum Window Substring
 
 
