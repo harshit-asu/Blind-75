@@ -89,6 +89,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 34](https://github.com/harshit-asu/Blind-75/blob/main/Trees/p34.py): 124. Binary Tree Maximum Path Sum
 
+[Problem 35](https://github.com/harshit-asu/Blind-75/blob/main/Trees/p35.py): 297. Serialize and Deserialize Binary Tree
+
 
 ## Heap & Priority Queue
 
