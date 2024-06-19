@@ -128,6 +128,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 52](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p52.py): 5. Longest Palindromic Substring
 
+[Problem 53](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p53.py): 647. Palindromic Substrings
+
 
 ## 2-D Dynamic Programming
 
