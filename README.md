@@ -130,6 +130,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 53](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p53.py): 647. Palindromic Substrings
 
+[Problem 54](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p54.py): 91. Decode Ways
+
 
 ## 2-D Dynamic Programming
 
