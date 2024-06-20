@@ -134,6 +134,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 55](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p55.py): 322. Coin Change
 
+[Problem 56](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p56.py): 152. Maximum Product Subarray
+
 
 ## 2-D Dynamic Programming
 
