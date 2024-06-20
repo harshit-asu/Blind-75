@@ -132,6 +132,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 54](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p54.py): 91. Decode Ways
 
+[Problem 55](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p55.py): 322. Coin Change
+
 
 ## 2-D Dynamic Programming
 
