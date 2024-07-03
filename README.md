@@ -119,6 +119,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 43](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p43.py): 133. Clone Graph
 
+[Problem 47](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p47.py):323. Number of Connected Components in an Undirected Graph
+
 
 ## 1-D Dynamic Programming
 
