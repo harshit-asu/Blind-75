@@ -153,6 +153,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 59](https://github.com/harshit-asu/Blind-75/blob/main/2-D%20Dynamic%20Programming/p59.py): 62. Unique Paths
 
+[Problem 60](https://github.com/harshit-asu/Blind-75/blob/main/2-D%20Dynamic%20Programming/p60.py): 1143. Longest Common Subsequence
+
 
 ## Greedy
 
