@@ -146,6 +146,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 57](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p57.py): 139. Word Break
 
+[Problem 58](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p58.py): 300. Longest Increasing Subsequence
+
 
 ## 2-D Dynamic Programming
 
