@@ -121,6 +121,8 @@ Blind 75 problem challenge from NeetCode
 
 [Problem 44](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p44.py): 417. Pacific Atlantic Water Flow
 
+[Problem 45](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p45.py): 207. Course Schedule
+
 [Problem 46](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p46.py): 261. Graph Valid Tree
 
 [Problem 47](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p47.py): 323. Number of Connected Components in an Undirected Graph
