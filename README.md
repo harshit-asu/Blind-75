@@ -128,6 +128,11 @@ Blind 75 problem challenge from NeetCode
 [Problem 47](https://github.com/harshit-asu/Blind-75/blob/main/Graphs/p47.py): 323. Number of Connected Components in an Undirected Graph
 
 
+## Advanced Graphs
+
+[Problem 48](https://github.com/harshit-asu/Blind-75/blob/main/Advanced%20Graphs/p48.py): 269. Alien Dictionary
+
+
 ## 1-D Dynamic Programming
 
 [Problem 49](https://github.com/harshit-asu/Blind-75/blob/main/1-D%20Dynamic%20Programming/p49.py): 70. Climbing Stairs
