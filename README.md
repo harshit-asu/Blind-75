@@ -1,5 +1,5 @@
 # Blind-75
-Blind 75 problem challenge from NeetCode
+Blind 75 problem challenge from [NeetCode](https://neetcode.io/practice)
 
 ## Arrays & Hashing
 
